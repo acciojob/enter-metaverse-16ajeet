@@ -1,6 +1,6 @@
 //your JS code here. If required.
 const btn = document.querySelector("#enterBtn");
-const p = document.querySelector("p")
+const p = document.querySelector("#status")
 
 const changeText = () => {
 	// const h1 = document.createElement('h1');
